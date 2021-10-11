@@ -7,7 +7,6 @@ A new Flutter application.
 <img src="Images/Screenshot%20(264).png" width="500" height="300" >
 <img src="Images/Screenshot%20(265).png" width="500" height="300" >
 
-App Working Video on Youtube: https://youtu.be/6Rg-rh6auew
 
 ## Getting Started
 
